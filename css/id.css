@@ -1,0 +1,6 @@
+/*Base css*/
+body{background-color: #282920;}
+.b{border: 2px solid white;}
+/*body{background-color: yellow;}*/
+/*body{background-image: url('../img/bg4.png');background-size: cover;background-repeat: no-repeat;}*/
+header{position: fixed;width: 100%;top: 0;}

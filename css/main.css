@@ -1,0 +1,4 @@
+/*Base css*/
+/*body{background-color: #9CB7D3;}*/
+body{background-image: url('../img/bg3.jpg');background-size: cover;background-repeat: no-repeat;}
+.card{box-shadow: 0 0 8px #000;background-color: transparent;height: 100%;color: #fff;background-color: rgba(0,0,0,0.4);}

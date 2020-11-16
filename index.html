@@ -19,7 +19,7 @@
       <!-- tagline -->
       <section class="tagline">
         <div class="row">
-          <div class="col-12">
+          <div class="col-12 col-sm-6">
             <h2 class="text-center text-light"><i>"Your Dream Home"</i></h2>
           </div>
         </div>
@@ -27,7 +27,7 @@
 
       <section class="catagory">
         <ul class="list-group list-group-horizontal-sm">
-          <li class="list-group-item p-0"><a href="error.html" class="btn">Mobile Wallpapers</a></li>
+          <li class="list-group-item p-0"><a href="#" class="btn" onclick="error_alert()">Mobile Wallpapers</a></li>
         </ul>
       </section>
       <!-- Main Section -->
@@ -213,6 +213,11 @@
             }
           });
       });
+      function error_alert()
+      {
+        alert('This catagory is under construction!');
+        return false;
+      }
     </script>
     <!-- <script src="js/validation.js"></script> -->
   </body>

@@ -19,6 +19,7 @@ body{transition-duration: 1s;background-color: #506575;}
 }
 header{background-image: url('../img/mobile/banner3.jpg'); background-size: cover;background-repeat: no-repeat;width: 100%;height: 300px;}
 header nav{background-color: transparent;}
+header .navbar{padding: 0;}
 header nav .fixed-top{top: 5px;background-color: red;}
 section{padding: 20px;}
 img{width: 100%;min-height: 100%;}
